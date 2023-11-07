@@ -1,49 +1,20 @@
 #EXTM3U
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/44
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/45
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/46
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/47
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/48
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/49
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/50
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/54
-#EXTINF:-1,|FR| Canal+ FOOT
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/56
-#EXTINF:-1,|FR| CANAL+  SPORT HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/19
-#EXTINF:-1,|FR| CANAL+ Sport 360
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/18
-#EXTINF:-1,|FR| BEIN MAX 4 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/244
-#EXTINF:-1,|FR| BEIN MAX 5 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/245
-#EXTINF:-1,|FR| BEIN MAX 6 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/246
-#EXTINF:-1,|FR| BEIN MAX 7 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/247
-#EXTINF:-1,|FR| BEIN MAX 8 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/248
-#EXTINF:-1,Infosport+
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/254
-#EXTINF:-1,Bein Sport 1HD FR
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/294
-#EXTINF:-1,Bein Sport 2HD FR
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/295
-#EXTINF:-1,Bein Sport 3HD FR
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/296
-#EXTINF:-1,RMC SPORT 1 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/297
-#EXTINF:-1,RMC SPORT 2 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/298
-#EXTINF:-1,RMC SPORT 3 HD
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/299
-#EXTINF:-1,RMC_SPORT 4 
-http://207.244.250.245:25461/AlphasportFR2/dXo5FaapA4/300
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,bein 1 4k
+http://tv-media.online:80/test/test/69.m3u8
+#EXTINF:-1,bein 1 hd
+http://tv-media.online:80/test/test/70.m3u8
+#EXTINF:-1,bein 2 4k
+http://tv-media.online:80/test/test/72.m3u8
+#EXTINF:-1,bein 2 hd
+http://tv-media.online:80/test/test/73.m3u8
+#EXTINF:-1,bein 2 sd
+http://tv-media.online:80/test/test/74.m3u8
+#EXTINF:-1,bein 3 4k
+http://tv-media.online:80/test/test/75.m3u8
+#EXTINF:-1,bein 3 hd
+http://tv-media.online:80/test/test/76.m3u8
+#EXTINF:-1,bein 3 sd
+http://tv-media.online:80/test/test/77.m3u8
+#EXTINF:-1,bein 1 sd
+http://tv-media.online:80/test/test/71.m3u8
